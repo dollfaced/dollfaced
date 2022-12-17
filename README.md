@@ -1,5 +1,6 @@
-morpheus/josiah/mats/achilles
-any prns,avoid fem . neos : bat+batself
+- morpheus/josiah/mats/achilles
+
+- any prns,avoid fem . neos : bat+batself
 
 *var* suicide = [
 
